@@ -1,0 +1,7 @@
+Host alias1
+    HostName 0.0.0.1
+    User %USER%
+
+Host alias2
+    HostName 0.0.0.2
+    User %USER%
