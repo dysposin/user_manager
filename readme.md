@@ -13,7 +13,7 @@ commands
   - `clean`
     - remove all user accounts created with this script except the ones on the filter list
   - `purge`
-    - remove all user accounts except the ones on the filter list
+    - remove all user accounts except the ones on the filter list **(MAKE SURE YOU KNOW WHAT YOU ARE DOING BEFORE USING THIS, it removes every user in /home/)**
   - `test`
     - test the functionality of the script (for debugging)
 
